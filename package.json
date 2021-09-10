@@ -1,0 +1,27 @@
+{
+  "name": "programming-languages-table",
+  "version": "1.0.0",
+  "description": "REST API, VUE, EXPRESS, NODE, MySQL",
+  "main": "server/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leonbohdan/programming-languages-table.git"
+  },
+  "keywords": [
+    "REST",
+    "API",
+    "VUE",
+    "EXPRESS",
+    "NODE",
+    "MySQL"
+  ],
+  "author": "Bohdan Leonets",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leonbohdan/programming-languages-table/issues"
+  },
+  "homepage": "https://github.com/leonbohdan/programming-languages-table#readme"
+}
