@@ -1,7 +1,11 @@
 # programming-languages-table
 REST API, VUE, EXPRESS, NODE, MySQL
 
-- [DEMO]()
+- [DEMO](https://programming-languages-table.herokuapp.com)
+
+- [DEMO programming-languages](https://programming-languages-table.herokuapp.com/programming-languages)
+
+- [DEMO second page](https://programming-languages-table.herokuapp.com/programming-languages?page=2)
 
 - [Code](https://github.com/leonbohdan/programming-languages-table)
 
@@ -19,7 +23,7 @@ The project was created with:
 
 # App description:
 
-- 
+- project deployed to heroku
 
 # How to open this repo locally
 
